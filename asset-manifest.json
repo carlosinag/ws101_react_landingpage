@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage/static/css/main.df2edfb4.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.18a663db.js",
+    "static/js/453.2b9430d9.chunk.js": "/ws101_react_landingpage/static/js/453.2b9430d9.chunk.js",
+    "static/media/1.png": "/ws101_react_landingpage/static/media/1.02a5a700caa919a83f00.png",
+    "static/media/4.png": "/ws101_react_landingpage/static/media/4.eeba5cd3488535f8a265.png",
+    "static/media/3.png": "/ws101_react_landingpage/static/media/3.b7dc89ce80c8a40428c1.png",
+    "static/media/2.png": "/ws101_react_landingpage/static/media/2.90d7e0ef211558c91623.png",
+    "static/media/photo2.png": "/ws101_react_landingpage/static/media/photo2.9992439272a0e9679592.png",
+    "static/media/photo.jpg": "/ws101_react_landingpage/static/media/photo.2755696d6560ac059979.jpg",
+    "static/media/image-removebg-preview (12).png": "/ws101_react_landingpage/static/media/image-removebg-preview (12).fe72fb24a01fbf2cc972.png",
+    "static/media/image-removebg-preview (16).png": "/ws101_react_landingpage/static/media/image-removebg-preview (16).aed6d4fe22ac7d46d37a.png",
+    "index.html": "/ws101_react_landingpage/index.html",
+    "main.df2edfb4.css.map": "/ws101_react_landingpage/static/css/main.df2edfb4.css.map",
+    "main.18a663db.js.map": "/ws101_react_landingpage/static/js/main.18a663db.js.map",
+    "453.2b9430d9.chunk.js.map": "/ws101_react_landingpage/static/js/453.2b9430d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df2edfb4.css",
+    "static/js/main.18a663db.js"
+  ]
+}
